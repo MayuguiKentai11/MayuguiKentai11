@@ -1,11 +1,12 @@
 ![](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
 <h1 align="center">Hi 👋, I'm Mauricio Rojas</h1>
 <h3 align="center">A passionate full-stack developer from Peru</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVvc2J2eXFuN280eWszYnV5bHlpZXJ1MGlmcHk0NXlndjEzN3V0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayuguikentai11&label=Profile%20views&color=0e75b6&style=flat" alt="mayuguikentai11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayuguikentai11" alt="mayuguikentai11" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVvc2J2eXFuN280eWszYnV5bHlpZXJ1MGlmcHk0NXlndjEzN3V0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp">
 
 - 🔭 I’m currently working on **Birdz Web App**
 
