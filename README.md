@@ -23,7 +23,7 @@
 <a href="https://twitter.com/mayuguikentai11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayuguikentai11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mauricio-rojas-sánchez-360b7726a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mauricio-rojas-sánchez-360b7726a" height="30" width="40" /></a>
 <a href="https://instagram.com/mauriii_wiwi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mauriii_wiwi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mayugui_kentai2193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mayugui_kentai2193" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mayugui_kentai2193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mayugui_kentai2193" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
