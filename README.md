@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVvc2J2eXFuN280eWszYnV5bHlpZXJ1MGlmcHk0NXlndjEzN3V0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp">
 
-- 🔭 I’m currently working on **Birdz Web App**
+- 🔭 I’m currently working on **Event Mate** project.
 
 - 🌱 I’m currently learning **DevOps**
 
